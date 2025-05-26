@@ -1,0 +1,38 @@
+$black: #202123;
+$dark: #28292b;
+$gray: #3b4042;
+$lightGray: #5E6367;
+$blue: #89b4f7;
+$darkBlue: #465269;
+$white: #e8eaed;
+$green: #80ec13;
+$darkGreen: #40750a;
+$red: #f20d80;
+$darkRed: #790640;
+
+
+$desktop: 840px;
+$picture: 470px;
+
+@mixin desktop () {
+	@media (min-width: #{$desktop}){
+		@content;
+	}
+}
+
+@mixin picture () {
+	@media (min-width: #{$picture}){
+		@content;
+	}
+}
+
+@mixin noselect() {
+	-webkit-touch-callout: none; /* iOS Safari */
+	  -webkit-user-select: none; /* Safari */
+	   -khtml-user-select: none; /* Konqueror HTML */
+		 -moz-user-select: none; /* Old versions of Firefox */
+		  -ms-user-select: none; /* Internet Explorer/Edge */
+			  user-select: none; /* Non-prefixed version, currently
+									supported by Chrome, Opera and Firefox */
+  }
+  

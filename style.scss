@@ -1,0 +1,84 @@
+@import "./variablesMixin";
+@import "./btnTest";
+@import "./btnAnswer";
+@import "./arrow";
+
+
+body {
+	background: $black;
+	overflow-y: scroll;
+	color: $white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.main2 {
+	background: $dark;
+	border: 10px solid $dark;
+	border-radius: 10px;
+	box-shadow: 2px 2px 4px black;
+	max-width: 100%;
+	margin-bottom: 20px;
+	@include desktop() {
+		max-width: 813.168px;
+		margin: auto;
+		margin-bottom: 20px;
+	}
+}
+
+.questinMain{
+	background: $gray;
+	border: 10px solid $gray;
+	border-radius: 10px;
+	box-shadow: 1px 1px 2px black;
+	margin-bottom: 10px;
+}
+
+.question {
+	font-weight:bold;
+	background: $gray;
+	font-size: 100%;
+	padding:9px;
+	border:1px solid $gray;
+}
+
+.main, footer {
+	max-width: 100%;
+	@include desktop() {
+		max-width: 813.168px;
+		margin: auto;
+	}
+}
+.settings{
+	display: table;
+	width: 100%;
+	border-spacing: 6px;
+	.bTestH{
+		display: table-cell;
+		width: 50%;
+		text-align: center;
+		font-size: 90%;
+	}
+}
+
+footer {
+	background: $black;
+	padding:2% 5%;
+}
+
+
+img {
+	display: block;
+	width: 100%;
+	height: auto;
+	@include picture() {
+		width: 415.2px;
+	}
+}
+
+a:link {
+	color: $blue;
+}
+  
+a:visited {
+	color: $darkBlue;
+}

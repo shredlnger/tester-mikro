@@ -1,0 +1,104 @@
+.testName {
+	display: table;
+	width: 100%;
+	border-spacing:5px;
+	margin: -5px;
+	margin-bottom: 2px;
+	background: $dark;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	padding-right: 10px;
+	top: 0;
+	position: -webkit-sticky;
+	position: sticky;
+	transition: top .4s;
+}
+
+
+.testText {
+	float: left;
+	display: table-cell;
+	width: 92%;
+	height: 100%;
+}
+
+
+.bTest, .SHBtn_def, .bTestH, .SHBtn_red, .SHBtn_gre {
+	background-color: $dark;
+	border:2px solid transparent;
+	display:inline-block;
+	cursor:pointer;
+	font-size: 105%;
+	font-weight:bold;
+	padding:9px 23px;
+	text-decoration:none;
+
+	display: table-cell;
+	
+	width: 80%;
+	vertical-align: middle;
+	@include noselect();
+
+	&:hover {
+		background-color: $gray;
+		border-radius: 10px;
+	}
+	&:active {
+		position:relative;
+		top:1px;
+	}
+}
+
+.bTestH {
+	margin-bottom: 10px;
+	width: 100%;
+	text-align: left;
+	background-color: $blue;
+	color: $dark;
+	border-radius: 10px;
+	&:hover {		
+		background-color: $darkBlue;
+		color: $blue;
+		border-radius: 10px;
+	}
+}
+
+.SHBtn_def, .SHBtn_red, .SHBtn_gre {	
+	padding:9px 16px;
+	width: 20%;
+	text-align: center;
+	background-color: $blue;
+	color: $dark;
+	border-radius: 10px;
+	&:hover {
+		background-color: $darkBlue;
+		color: $blue;
+	}
+}
+
+.SHBtn_red {	
+	background-color: $red;
+	color: $dark;
+	&:hover {
+		background-color: $darkRed;
+		color: $blue;
+	}
+}
+
+.SHBtn_gre {	
+	background-color: $green;
+	color: $dark;
+	&:hover {
+		background-color: $darkGreen;
+		color: $blue;
+	}
+}
+
+a:link {
+	color: $blue;
+  }
+  
+  /* visited link */
+  a:visited {
+	color: $darkBlue;
+  }
