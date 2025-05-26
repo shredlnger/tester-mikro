@@ -1,0 +1,1205 @@
+[
+  {
+    "name": "Skúška z mikroekonómie",
+    "questions": [
+      {
+        "question": "Zvýšenie dôchodku (ceteris paribus) spôsobuje posun rozpočtovej čiary, a to:",
+        "answers": [
+          {
+            "answer": "Rovnobežne doprava hore",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "Zmenu jej sklonu – bude miernejšia",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Zmenu jej sklonu – bude strmšia",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Rovnobežne doľava dole",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Hraničná užitočnosť s rastom množstva spotrebovaných statkov:",
+        "answers": [
+          {
+            "answer": "Vždy rastie",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Len rastie (s výnimkou alkoholických a tabakových výrobkov)",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Väčšinou klesá",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Je vždy ",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Optimálna spotrebná kombinácia sa nachádza:",
+        "answers": [
+          {
+            "answer": "V priesečníku dotyku rozpočtovej priamky a indiferenčnej krivky ",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "V bode dotyku rozpočtovej priamky a indiferenčnej krivky",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "V bode dotyku indiferenčnej a Engelovej krivky",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "V priesečníku indiferenčnej a Engelovej krivky",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Pozitívnu krížovú elasticitu vykazujú statky za obvyklých okolností (ceteris paribus):",
+        "answers": [
+          {
+            "answer": "Lyže a lyžiarky",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Hranolky a kečup ",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "MHD a taxislužba ",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Auto a pohonné hmoty",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Substitučný efekt pri raste ceny inferiórneho statku X má vplyv na nakupované množstvo daného statku taký, že:",
+        "answers": [
+          {
+            "answer": "Zvyšuje nakupované množstvo daného statku ",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Znižuje nakupované množstvo daného statku",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "Neovplyvní nakupované množstvo daného statku",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Žiadna z odpovedí nie je správna",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Cieľom monopolistu pri cenovej diferenciácií je:",
+        "answers": [
+          {
+            "answer": "Posunúť MC ",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Znížiť výdavky",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Odčerpať čo najväčšiu časť spotrebiteľského prebytku ",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Ani jedna z uvedených odpovedí nie je správna ",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Ak Lernerov index nadobudne hodnotu 0, potom ide o :",
+        "answers": [
+          {
+            "answer": "Monopol ",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Dokonalú konkurenciu",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "Monopolistickú konkurenciu",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Oligopol",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Aké výnosy z rozsahu vykazuje produkčná funkcia Q = 4KL:",
+        "answers": [
+          {
+            "answer": "Klesajúce výnosy z rozsahu",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Konštantné výnosy z rozsahu",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Rastúce výnosy z rozsahu",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Elastické výnosy z rozsahu",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Hraničný úžitok predstavuje:",
+        "answers": [
+          {
+            "answer": "Úžitok, ktorý pripadá na jednu jednotku príjmu",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Rozdiel medzi dvoma po sebe nasledujúcimi hodnotami úžitku",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "Pomer úžitkov pripadajúcich na jednu peňažnú jednotku",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Žiadna z odpovedí nie je správna",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Čo z nasledujúcich výrobkov je charakteristická pre cenovú elasticitu dopytu:",
+        "answers": [
+          {
+            "answer": "Nemôže byť záporná",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "V každom bode bude nepriamo úmerná k smernici",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "V každom bode je iná",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Všetky odpovede sú správne",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Optimálna spotrebná kombinácia sa nachádza:",
+        "answers": [
+          {
+            "answer": "V priesečníku dotyku rozpočtovej priamky a indiferenčnej krivky",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "V bode dotyku rozpočtovej priamky a indiferenčnej krivky",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "V bode dotyku indiferenčnej a Engelovej krivky",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "V priesečníku indiferenčnej a Engelovej krivky",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Zápornú krížovú elasticitu vykazujú statky za obvyklých okolností (ceteris paribus):",
+        "answers": [
+          {
+            "answer": "Pizza a gyros",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "MHD a taxislužba",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Lyže a lyžiarky",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Autobus a vlak",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Dôchodkový (príjmový) efekt pri raste ceny inferiórneho statku X má vplyv na nakupované množstvo daného statku taký, že:",
+        "answers": [
+          {
+            "answer": "Znižuje nakupované množstvo",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Zvyšuje nakupované množstvo daného statku",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "Neovplyvní nakupované množstvo daného statku",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Žiadna z odpovedí nie je správna",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Priemerné fixné náklady sa vypočítajú podľa vzťahu:",
+        "answers": [
+          {
+            "answer": "AFC = TC / L",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "AFC = FC / L",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "AFC = FC / Q",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "AFC = TC / Q ",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Krivka hraničného príjmu pre monopolistu je taká istá:",
+        "answers": [
+          {
+            "answer": "Ako jeho dopytová krivka",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Ani jedna z uvedených odpovedí nie je správna",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "Ako jeho krivka AR",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Ako jeho krivka MC",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Trhová ponuka DK odvetvia v dlhom období je daná:",
+        "answers": [
+          {
+            "answer": "Množinou krátkodobých bodov ukončenia v odvetví ",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Horizontálnych súčtom individuálnych ponukových kriviek všetkých firiem odvetvia",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Množinou rovnovážnych bodov v odvetví",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Horizontálnym súčtom individuálnych hraničných kriviek všetkých firiem odvetvia",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Na trhu statkov posun celej ponukovej krivky smerom doľava hore je dôsledok:",
+        "answers": [
+          {
+            "answer": "zvýšenie ceny daného statku",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "zvýšenia cien výrobných faktorov",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "zníženie ceny daného statku",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "zníženie cien výrobných faktorov",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Reakciu zmeny spotreby statkov X a Z na zmenu príjmu spotrebiteľa pri konštantných cenách daných statkov vyjadruje:",
+        "answers": [
+          {
+            "answer": "Krivka ID",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Krivka PCC",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Krivka ICC",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Lafferová krivka",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Ak sa koeficient cenovej elasticity dopytu (CED) sa rovná 5, znamená to že ide o:",
+        "answers": [
+          {
+            "answer": "Dokonale neelastický dopyt",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Elastický dopyt",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "Dokonale neelastický dopyt",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Neelastický dopyt",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Pozitívnu krížovú elasticitu vykazujú statky za obvyklých okolnosti (ceteris paribus) :",
+        "answers": [
+          {
+            "answer": "Maslo a chlieb",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Rožok a maslo",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Chlieb a rožok",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Rožok a párky",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Dôchodkový (príjmový) efekt pri raste ceny inferiórneho statku X má vplyv na nakupované množstvo daného statku taký, že:",
+        "answers": [
+          {
+            "answer": "Znižuje nakupované množstvo daného statku",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Zvyšuje nakupované množstvo daného statku",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "Neovplyvní nakupované množstvo daného statku",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Žiadna z odpovedí nie je správna",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Priemerné fixné náklady sa vypočítajú podľa vzťahu:",
+        "answers": [
+          {
+            "answer": "AFC = TC / L",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "AFC = FC / L",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "AFC = FC / Q",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "AFC = TC / Q",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Krivka hraničného príjmu pre dokonalú konkurenčnú firmu v krátkom období je taká istá ako:",
+        "answers": [
+          {
+            "answer": "Ako jeho ponuková krivka",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Ako jeho krivka MC",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "Ako jeho krivka AR",
+            "isCorrect": false,
+            "id": 2
+          },
+          {
+            "answer": "Ako jeho krivka AVC",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Pri konštantných výnosoch z rozsahu predpokladáme, že firma proporcionálne mení:",
+        "answers": [
+          {
+            "answer": "Len množstvo práce",
+            "isCorrect": false,
+            "id": 0
+          },
+          {
+            "answer": "Len množstvo kapitálu",
+            "isCorrect": false,
+            "id": 1
+          },
+          {
+            "answer": "Množstvo všetkých výrobných faktorov",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "Len množstvo pôdy",
+            "isCorrect": false,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Definujte a graficky znázornite zostrojenie ICC krivky. (4 body):",
+        "picture": "data/pictures/25.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Vypočítajte a graficky znázornite: Spotrebiteľ míňa celý svoj príjem vo výške 2100€ za dva tovary X a Y. Jeho funkcia úžitku je daná vzťahom U (X, Y) = X*Y. Koľko si spotrebiteľ kúpi každého tovaru, ak cena tovaru X je 70€/ks a cena tovaru Y je 30€ks. (6 bodov):",
+        "picture": "data/pictures/26.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Definujte cenovú elasticitu dopytu (CED) , uveďte vzorec výpočtu a aké hodnoty môže nadobudnúť. (4 body):",
+        "picture": "data/pictures/27.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Zdôvodnite a graficky podložte rozhodnutia monopolnej firmy v krátkom období/kedy pokračuje vo výrobe a kedy ukončí výrobu. (8 bodov):",
+        "picture": "data/pictures/28.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Nákladová funkcia dokonale konkurenčnej firmy v krátkom období je daná rovnicou STC = Q3  - 9 * Q2 + 65 * Q + 150 a cena je 50€.  Aký je optimálny objem produkcie, ak firma chce maximalizovať svoj zisk? Určite veľkosť zisku príp. stratu firmy, zhodnoťte jej situáciu a graficky znázornite. (6 bodov):",
+        "picture": "data/pictures/29.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Charakterizujte monopolistickú konkurenciu a uveďte príklady. (4 body):",
+        "picture": "data/pictures/30.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Firmy na trhu pre určitý statok sú vnímané ako Cournotovi duopolisti. Určite, aké rovnovážne množstvo budú predávať a pri akej cene viete, že dopyt po statku je P = 140 – Q a hraničné náklady oboch firiem sú 80€. (6 bodov):",
+        "picture": "data/pictures/31.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Charakterizujte a nakreslite: BEA analýza (4 body):",
+        "picture": "data/pictures/32.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Definujte a graficky znázornite indiferenčnú krivku a jej špeciálne typy. (4 body):",
+        "picture": "data/pictures/33.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Na trhu je daný dopyt Pd = 120 – 4Qd   a ponuka Ps = 6Qs.Aká bude rovnováha? Aké budú tržby v nej? Aká je cenová elasticita dopytu? Graficky ilustrujte.(6 bodov):",
+        "picture": "data/pictures/34.jpg",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Definujte všeobecne a potom vypočítajte a graficky podložte všetky krátkodobé náklady firmy ak viete, že Q = 4KL pričom určené vo výške 4 jednotiek a ceny výrobných faktorov sú PK  = 3 € a PL = 2 €. Graficky ilustrujte. (6 bodov):",
+        "picture": "data/pictures/35.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Definujte a uveďte vzorec: Hraničná miera technickej substitúcie (2 body):",
+        "picture": "data/pictures/36.jpg",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Zdôvodnite a graficky podložte rozhodnutia monopolnej firmy v krátkom období ak platí, že dopytovaná cena je väčšia ako hraničné náklady firmy. (8 bodov)",
+        "picture": "data/pictures/37.jpg",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Charakterizujte oligopol a stratégie jednotlivých firiem duopolu (6 bodov)",
+        "picture": "data/pictures/38.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Firmy na trhu pre určitý statok sú vnímané ako Cournotovi duopolisti. Určite, aké rovnovážne množstvo budú predávať a pri akej cene viete, že dopyt po statku je P = 100 – Q a hraničné náklady oboch firiem sú 40€. (6 bodov)",
+        "picture": "data/pictures/39.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Popíšte znaky stratégie TIT FOR TAT. ( 4 body)",
+        "picture": "data/pictures/40.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Nakresliť PCC krivku ",
+        "picture": "data/pictures/41.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Nakresliť P> min.SAC",
+        "picture": "data/pictures/42.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Popísať Make or Buy",
+        "picture": "data/pictures/43.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Popísať nákladové optimum",
+        "picture": "data/pictures/44.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Popísať Lernerov index",
+        "picture": "data/pictures/45.png",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Funkcia úžitku spotrebiteľa je v tvare U(X,Y) = X.Y, Cena statku X je 5€/ks a cena statku Y je 10€/ks. Ak príjem spotrebiteľa je 100€, aká bude optimálna kombinácia statkov X a Y?Vypočítajte a graficky ilustrujte.",
+        "picture": "data/pictures/46.jpg",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      },
+      {
+        "question": "Firma vyrába v dvoch výrobných závodoch s nasledujúcimi krivkami hraničných nákladov: MC1 = 0,3*Q1 a MC2 = 4 + 0,1*Q2. Koľko kusov by mala produkovať v každom závode, ak chce vyrobiť súhrne 600 jednotiek výstupu s čo najnižšími nákladmi?",
+        "picture": "data/pictures/47.jpg",
+        "answers": [
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 0
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 1
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 2
+          },
+          {
+            "answer": "",
+            "isCorrect": true,
+            "id": 3
+          }
+        ]
+      }
+    ]
+  }
+]
