@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151986339-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-151986339-1');
+    gtag('config', 'G-X3MZTY5W6W');
+    gtag('config', 'G-PZ8B3HC5YS');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ZET-TESTER</title>
+    <link rel="icon" href="data/pictures/logo.png">
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-cookies.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-sanitize.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+    <link href="style/style.css" rel="stylesheet"/>
+
+    <script src="js/app.js"></script>
+    <script src="js/shController.js"></script>
+    
+</head>
+<body ng-app="Module" ng-controller="mainController">
+<div class = "main2" id="main2"> 
+    <div class="main"ng-repeat="test in Data" ng-controller="shController" ng-init="testIndex=$index">        
+        
+        <div class="testName" id="{{$index}}">
+            <div class="bTest" ng-click="toggle('test.name'); changeArrow(test)">                
+                <div class="testText">{{test.name}}</div>
+                <div class="arrow"><i class={{test.arrow}}></i></div>
+            </div>
+            <div class="{{changeClassSHBtn(test)}}" ng-click="clearTest(test, testIndex)">
+                {{(test.points == null ? "00" : (test.points < 10 ? "0"+test.points : test.points)) + "/" + test.questions.length + (test.points != null ? ' &#x21bb' : "  ")}}
+            </div>
+        </div>
+
+        <div class="{{test.info != null ? 'questinMain question' : ''}}" ng-show="isShowing('test.name')">
+            {{test.info != null ? test.info : ""}}
+        </div>
+
+        <div class="questinMain" ng-repeat="question in test.questions" ng-show="isShowing('test.name')" ng-init="questionIndex=$index">
+                <div class="question">
+                    <span ng-bind-html="$index+1+'. '+question.question"></span>
+                    <img ng-show="question.picture" ng-src="{{question.picture}}" onError="question.picture = false">
+                </div>
+            
+            <div ng-repeat="answer in question.answers">
+                <div class="{{answer.color == null ? 'bAnswer' : answer.color}}" ng-click="isCorrect(answer, test, question, testIndex, questionIndex)">{{answer.answer}}</div>
+            </div>
+        </div>
+        
+    </div>
+    
+    <div class="settings">
+        <div class="bTestH" ng-click="showAnswers = !showAnswers; setCookiesSettings('showAnswers', showAnswers)">
+                {{(showAnswers ? "Vypnúť" : "Zapnúť") + " zobrazovanie správnych odpovedí"}}            
+        </div>
+        <div class="bTestH" ng-click="canShuffle = !canShuffle; setCookiesSettings('canShuffle', canShuffle)">
+                {{(canShuffle ? "Vypnúť" : "Zapnúť") + " miešanie odpovedí"}}            
+        </div>
+    </div>
+</div>
+<footer>
+    Zdrojový kód projektu: <a target="_blank" rel="noopener noreferrer" href="https://github.com/benkosa/ZET-TESTER/tree/master">github.com/benkosa</a>
+    <div>v 1.02</div>
+    <p>
+        Pravopisné chyby alebo zlé odpovede môžete opravovať tu: 
+        <a target="_blank" href="https://github.com/benkosa/ZET-TESTER/blob/master/public/data/fullData.json">
+            fullData.json
+        </a>. 
+        Ak opravujete zlú odpoveď, prosím pridajte do komentára aj dôkaz o vašom tvrdení.
+    </p>
+</footer>
+</body>
+</html>
